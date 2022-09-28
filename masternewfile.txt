@@ -1,0 +1,5 @@
+Hi,
+
+This file is to check automatic bulid in the Job2 using jenkins.
+
+Thank you!!
